@@ -9,5 +9,5 @@ The main purpose of this UDL is to provide syntax highlighting for Semantic Medi
 For detailed information on UDL see [User Defined Language Online Documenation](http://udl20.weebly.com/index.html).
 
 ## Installation
-1. Download the language file (__Save Link As...__) from https://raw.githubusercontent.com/nakohdo/NPP.log-file/master/userDefineLang_log-file.xml 
+1. Download the language file (__Save Link As...__) from https://github.com/nakohdo/NPP.SemanticMediaWiki/raw/master/userDefineLang_SemanticMediaWiki.xml 
 2. In Notepad++, import the file via __Language > Define your language... > Import...__.
